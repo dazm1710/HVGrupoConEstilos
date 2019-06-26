@@ -1,0 +1,38 @@
+html{
+	background: #B4B4B4;
+}
+
+h1{
+	color: #1B500C;
+	text-align: center;
+	font-size: 40px;
+	font-weight: 
+	font-family: "Broadway";
+}
+
+h3{
+	color: #A55A1C;
+	text-align: center;
+	font-size: 17px;
+	font-weight: 600;
+	font-family: "Constantia";
+}
+h4{
+	color: #A55A1C;
+	text-align: left;
+	font-size: 17px;
+	font-weight: 600;
+	font-family: "Constantia";
+}
+
+img{
+	display:block;
+	margin:auto;
+}
+p{
+	color: black;
+	text-align: left;
+	font-size: 15px;
+	font-weight: normal;
+	font-family: "Constantia";
+}
