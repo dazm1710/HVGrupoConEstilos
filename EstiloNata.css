@@ -1,0 +1,32 @@
+html{
+	background: yellow;
+}
+
+h1 {
+	color: red;
+	text-align: center;
+	font-size: 55;
+	font-weight: bold;
+	font-family: Edwardian Script ITC
+}
+
+.foto{
+	display: block;
+	margin: auto;
+	width: 110;
+	height: 190;
+}
+
+h3 {
+	color: black;
+	text-align: center;
+	font-size: 34;
+	font-weight: bold;
+	font-family: Monotype Corsiva
+}
+
+p {
+	text-align: center;
+	font-size: 20;
+	font-family: Gabriola
+}
