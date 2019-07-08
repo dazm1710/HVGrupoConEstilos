@@ -1,4 +1,4 @@
-# HVGrupo
+# HVGrupo Con Estilos
 
 * Duvan Alejandro Zambrano Molina 20161020011
 * Johan Sebastian Ortiz Cortes 20161020043
